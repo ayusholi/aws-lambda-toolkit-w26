@@ -2,5 +2,5 @@
 
 ## [Unreleased]
 
-- use dependency injection pattern
-- Build: 2026-06-23T13:00:01.257Z
+- update changelog with recent changes
+- Updated: 2026-06-24T13:00:01.236Z
