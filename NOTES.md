@@ -1,7 +1,7 @@
 # Notes
 
-Session: 2026-06-23T13:00:01.257Z
+Last updated: 2026-06-24T13:00:01.236Z
 
-## Summary
+## Progress
 
-- handle timeout errors in HTTP client
+- add architecture decision records
