@@ -1,7 +1,7 @@
 # Notes
 
-Last updated: 2026-06-24T13:00:01.236Z
+Session: 2026-06-24T13:00:01.236Z
 
-## Progress
+## Summary
 
-- add architecture decision records
+- implement logging and monitoring
