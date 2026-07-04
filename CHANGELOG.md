@@ -2,5 +2,5 @@
 
 ## [Unreleased]
 
-- prevent XSS vulnerability in output
-- Updated: 2026-07-04T13:00:01.433Z
+- simplify conditional logic
+- Build: 2026-07-04T13:00:01.433Z
