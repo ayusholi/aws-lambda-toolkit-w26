@@ -1,7 +1,7 @@
 # Notes
 
-Last updated: 2026-07-12T13:00:01.402Z
+Session: 2026-07-12T13:00:01.402Z
 
-## Progress
+## Summary
 
-- handle null pointer exception
+- correct sorting algorithm for edge cases
